@@ -1,5 +1,5 @@
 # noSleep
-Inviabiliza o Windows a entrar no descanso de tela independente das permissões
+Inviabiliza o sistema operacional Windows a entrar no descanso de tela independente das permissões
 
 Para inicializar toda vez que iniciar o Windows, basta jogar o arquivo em um dos diretórios:
 
